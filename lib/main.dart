@@ -1,4 +1,4 @@
-import 'package:contador/src/pages/app.dart';
+import 'package:contador/src/app.dart';
 import 'package:flutter/material.dart';
 
 
